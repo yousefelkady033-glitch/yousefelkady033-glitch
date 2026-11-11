@@ -9,8 +9,6 @@
 <li> 💻 Most of my projects are available on <a href="https://github.com/yousefelkady033-glitch">Github</a> 💻.</li>
 <li>📝 I <del>regularly</del> write articles on my blog📝.</li>
 <li>💬 Ping me about <strong>Html, CSS, java Script</strong>💬.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
