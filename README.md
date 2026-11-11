@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Yousef Elkady</h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p>My name is Yousef Elkady and I'm a software developer/DevOps engineer. I'm from Egypt, living in tanta. And I am currently a student at the Faculty of Computers and Information, Menoufia University</p>
+<p>" Don't forget to get My CV 👀💯</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
