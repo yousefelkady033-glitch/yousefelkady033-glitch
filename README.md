@@ -1,11 +1,11 @@
 <h2>Hey 👋, I'm Yousef Elkady🤠</h2>
-<p>My name is Yousef Elkady and I'm a software developer/DevOps engineer. I'm from Egypt, living in tanta. And I am currently a student at the Faculty of Computers and Information, Menoufia University</p>
-<p>" Don't forget to get My CV 👀💯</p>
+<p>My name is Yousef Elkady and I'm a software developer/DevOps engineer. I'm from Egypt, living in tanta. And I am currently a student at the Faculty of Computers and Information, Menoufia University.</p>
+<p>" Don't forget to get My CV " 👀💯</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I am currently working on developing myself in the field of web development.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li> I am currently working on developing myself in the field of web development 🚀.</li>
+<li>Thanks to Allah, I’ve mastered HTML and CSS and am currently continuing my journey through the web development pathway 👨‍💻.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
 <li>📝 I <del>regularly</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
